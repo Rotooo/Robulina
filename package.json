@@ -1,0 +1,51 @@
+{
+  "name": "robulina",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development",
+    "start": "webpack-dev-server --history-api-fallback --open --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rotooo/Robulina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rotooo/Robulina/issues"
+  },
+  "homepage": "https://github.com/Rotooo/Robulina#readme",
+  "description": "",
+  "dependencies": {
+    "@babel/core": "^7.26.7",
+    "@babel/preset-env": "^7.26.7",
+    "@babel/preset-react": "^7.26.3",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/roboto": "^5.1.1",
+    "@mui/icons-material": "^6.4.1",
+    "@mui/lab": "^6.0.0-beta.24",
+    "@mui/material": "^6.4.1",
+    "@toolpad/core": "^0.12.0",
+    "babel-loader": "^9.2.1",
+    "file-loader": "^6.2.0",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.3",
+    "sass": "^1.83.4",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "mini-css-extract-plugin": "^2.9.2",
+    "sass-loader": "^16.0.4"
+  }
+}

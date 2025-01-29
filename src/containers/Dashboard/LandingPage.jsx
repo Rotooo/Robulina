@@ -13,6 +13,8 @@ import Highlights from './components/Highlights';
 import Testimonials from './components/Features';
 import Features from './components/Testimonials';
 import Panel2 from './components/PAnel2';
+import Section1 from './components/Section1';
+import Section2 from './components/Section2';
 import getLPTheme from './getLPTheme';
 
 function ToggleCustomTheme({ showCustomTheme, toggleCustomTheme }) {
@@ -78,6 +80,11 @@ export default function LandingPage() {
       <Hero />
       <Box sx={{ bgcolor: 'background.default' }}>
         <Features />
+        <Divider />
+        <div className='spacing20' />
+        <Section1 />
+        <Divider />
+        <Section2 />
         <Divider />
         <Panel2 />
         <Divider />

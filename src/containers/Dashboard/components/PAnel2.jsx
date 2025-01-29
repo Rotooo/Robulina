@@ -57,39 +57,9 @@ export default function Testimonials() {
         Situación actual de la clínica: Describe los principales desafíos y oportunidades. DESAFIOS. 1.- Población adulta mayor (geriátrica mayor de 70 años de edad) población pediátrica (de 5 a 15 años). 
         2.- Competencia en el mercado. 3.- Organización sin uso de herramientas tecnológicas y digitales (TIC, loT).
         </Typography>
-        <Typography component="h4" variant="h5" color="text.primary">
+        <Typography component="h4" variant="h5ñ" color="text.primary">
             Análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas). 
         </Typography>
-        <center>
-        <table>
-        <tr>
-            <th>Fortalezas</th>
-            <th>Oportunidades</th>
-        </tr>
-        <tr>
-            <td>
-            -Clínica en zona urbana con crecimiento rápido.
-            -Interés en aplicar modelos de atención centrados en el paciente.
-            </td>
-            <td>
-            - Carencia en  modernización y optimización apoyada en herramientas TIC e IoT para mejorar la atención al paciente.
-            </td>
-        </tr>
-        <tr>
-            <td>Debilidades</td>
-            <td>Amenazas</td>
-        </tr>
-        <tr>
-            <td>
-            - Problemas de sostenibilidad financiera de la clínica.
-            - Población geriátrica.
-            </td>
-            <td>
-            - Sin amenazas
-            </td>
-        </tr>
-    </table>
-    </center>
       </Box>
     </Container>
   );

@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
     "dev": "webpack --mode development",
-    "start": "webpack-dev-server --history-api-fallback --open --mode development"
+    "start": "webpack-dev-server --history-api-fallback --open --mode development",
+    "fire": "npm run build && firebase deploy"
   },
   "repository": {
     "type": "git",

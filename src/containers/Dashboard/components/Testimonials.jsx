@@ -54,26 +54,9 @@ export default function Testimonials() {
           Introducción
         </Typography>
         <Typography variant="body1" color="text.secondary">
-        La Transformación Digital (TD) hoy en día es un término que escuchamos de forma
-recurrente en muchos contextos, actualmente estamos “invadidos” de blogs,
-conferencias, workshops, publicaciones en redes sociales que hablan de
-Transformación Digital y cómo “convertirse en expertos”, pero la realidad es que no ha
-sido fácil llegar a una definición estandarizada y entender de manera práctica lo que
-este proceso conlleva.
-La Transformación Digital debe estar asociada a una serie de procesos, en los que la
-organización empieza a convertir de forma progresiva o exponencial, sus procesos de
-trabajo en su gran mayoría análogos a procesos de trabajo de naturaleza digital; por lo
-tanto, podríamos empezar a definir, que la TD, es un medio por el que actualizamos o
-transformamos la organización a un mundo cada vez más digital, que se mantiene
-orientado a las tendencias de consumo y de funcionamiento, pero, que no es un proceso
-que transforme la razón de ser de la empresa como tal, solo potencializa sus procesos
-tradicionales, para mejorar su competitividad dentro del mercado.
-En este sentido, la transformación digital debería ser capaz de dar una evolución, un
-cambio y cómo su nombre lo indica, transformar organizaciones, sin importar su
-naturaleza o sector, algunas con mayor facilidad que otras para desarrollar estos
-procesos, pero en definitiva, cualquier organización es susceptible de implementar
-procesos de TD.
-
+        La definición de la estrategia de manejo de la información, tanto en cantidad como en calidad y oportunidad, incluyendo el desarrollo de aquellos sistemas que respalden eficientemente la gestión de la organización y que luego se definen como sistemas de información de la gerencia.
+El uso de tecnología en diabetes ha demostrado, de forma general, mejorar el control glucémico de las personas con diabetes que los utilizan y mejorar también la calidad de vida, así como otros aspectos relacionados con la salud, como la calidad del sueño, y la satisfacción global con el tratamiento, sin embargo en los pacientes insulinodependientes se generan gran cantidad de Eventos Adversos por administrar dosis equivocada de insulina o aplicación incorrecta de la misma (esta estrategia puede incluso evitar situaciones médico-legales en la clínica por muerte del paciente aplicando dosis equivocada de insulina).   Mi Estrategia de Gestión Basada en TIC se enfoca primordialmente al primer nivel atención en donde acude gran cantidad de pacientes como primer contacto a educarse sobre el manejo de insulina para ellos o su familiar.
+Así como actualmente en Aguascalientes contamos en algunos hospitales de Secretaria de Salud con Robot Dispensadores de Medicamentos en farmacia, mi estrategia es gestionar un “robot dosificador y administrador de insulina”.
         </Typography>
       </Box>
     </Container>
